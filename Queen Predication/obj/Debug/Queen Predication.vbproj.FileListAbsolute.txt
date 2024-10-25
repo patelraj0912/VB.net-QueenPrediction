@@ -1,0 +1,18 @@
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\bin\Debug\Queen Predication.exe.config
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\bin\Debug\Queen Predication.exe
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\bin\Debug\Queen Predication.pdb
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\bin\Debug\Queen Predication.xml
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen Predication.vbprojAssemblyReference.cache
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.Form1.resources
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.Resources.resources
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen Predication.vbproj.GenerateResource.cache
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen Predication.vbproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen Predication.exe
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen Predication.xml
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen Predication.pdb
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.sign_up_form.resources
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.home_form.resources
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.settigs_form.resources
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.view_scoreboard.resources
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.play_form.resources
+C:\Users\ABC\source\repos\Queen Predication\Queen Predication\obj\Debug\Queen_Predication.help_form.resources
